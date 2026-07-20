@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0011-container-with-most-water/) | Medium |
 | [0078-subsets](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0078-subsets/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -59,9 +60,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0011-container-with-most-water/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0010-regular-expression-matching/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
