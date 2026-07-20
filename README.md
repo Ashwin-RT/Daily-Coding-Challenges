@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0015-3sum/) | Medium |
 | [0078-subsets](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0078-subsets/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0015-3sum/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +84,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0014-longest-common-prefix/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
