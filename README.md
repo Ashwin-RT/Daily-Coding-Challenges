@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0078-subsets](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0078-subsets/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -39,4 +40,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
