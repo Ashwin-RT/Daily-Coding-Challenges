@@ -12,6 +12,7 @@
 | [0078-subsets](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0078-subsets/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0013-roman-to-integer/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +42,7 @@
 | [0012-integer-to-roman](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0013-roman-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
