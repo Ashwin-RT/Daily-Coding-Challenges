@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0015-3sum/) | Medium |
 | [0078-subsets](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0078-subsets/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +89,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0015-3sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
