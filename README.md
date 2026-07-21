@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0015-3sum/) | Medium |
 | [0078-subsets](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0078-subsets/) | Medium |
+| [0169-majority-element](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0169-majority-element/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -28,6 +29,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0169-majority-element/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0169-majority-element](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0169-majority-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +97,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0015-3sum/) | Medium |
+| [0169-majority-element](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0169-majority-element/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,5 +105,6 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0169-majority-element/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
