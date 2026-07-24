@@ -12,6 +12,7 @@
 | [0078-subsets](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0078-subsets/) | Medium |
 | [0169-majority-element](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0414-third-maximum-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -89,6 +90,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0015-3sum/) | Medium |
+| [0283-move-zeroes](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
