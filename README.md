@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0015-3sum/) | Medium |
 | [0078-subsets](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0078-subsets/) | Medium |
 | [0169-majority-element](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0414-third-maximum-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -24,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0078-subsets/) | Medium |
+| [0268-missing-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +34,7 @@
 | [0012-integer-to-roman](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Linked List
@@ -46,6 +49,7 @@
 | [0009-palindrome-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0013-roman-to-integer/) | Easy |
+| [0268-missing-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Recursion
@@ -72,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0268-missing-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -103,6 +108,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0414-third-maximum-number/) | Easy |
 ## Prefix Sum
