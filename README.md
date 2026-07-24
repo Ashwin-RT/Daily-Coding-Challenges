@@ -12,6 +12,7 @@
 | [0078-subsets](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0078-subsets/) | Medium |
 | [0169-majority-element](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0414-third-maximum-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -103,6 +104,7 @@
 | [0015-3sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0414-third-maximum-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
