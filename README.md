@@ -69,6 +69,7 @@
 | [0012-integer-to-roman](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0014-longest-common-prefix/) | Easy |
+| [0125-valid-palindrome](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0125-valid-palindrome/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0015-3sum/) | Medium |
+| [0125-valid-palindrome](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Dynamic Programming
