@@ -27,6 +27,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0268-missing-number/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | [0012-integer-to-roman](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0268-missing-number/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Recursion
@@ -70,6 +72,7 @@
 | [0013-roman-to-integer](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0125-valid-palindrome/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
