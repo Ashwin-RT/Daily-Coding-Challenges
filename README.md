@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0015-3sum/) | Medium |
+| [0066-plus-one](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0078-subsets/) | Medium |
 | [0169-majority-element](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0268-missing-number/) | Easy |
@@ -51,6 +52,7 @@
 | [0009-palindrome-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashwin-RT/Daily-Coding-Challenges/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
